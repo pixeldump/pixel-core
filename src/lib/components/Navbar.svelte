@@ -5,7 +5,7 @@
 		{ href: '#hero', label: 'Home' },
 		{ href: '#about', label: 'About' },
 		{ href: '#projects', label: 'Projects' },
-		{ href: 'https://arkamfahry.github.io/bit-dump', label: 'Blog', target: '_blank' },
+		{ href: 'https://pixeldump.github.io/pixel-blog', label: 'Blog', target: '_blank' },
 		{ href: '#contact', label: 'Contact' }
 	];
 
