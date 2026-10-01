@@ -1,8 +1,8 @@
 <script lang="ts">
 	const channels = [
 		{ label: 'Email', value: 'm.arkamfahry@gmail.com', href: 'mailto:m.arkamfahry@gmail.com' },
-		{ label: 'GitHub', value: 'github.com/arkamfahry', href: 'https://github.com/arkamfahry' },
-		{ label: 'Twitter / X', value: '@arkamfahry', href: 'https://x.com/arkamfahry' }
+		{ label: 'GitHub', value: 'github.com/pixeldump', href: 'https://github.com/pixeldump' },
+		{ label: 'Twitter / X', value: '@pixeldumpdev', href: 'https://x.com/pixeldumpdev' }
 	];
 </script>
 
