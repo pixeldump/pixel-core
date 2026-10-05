@@ -5,7 +5,7 @@
 		{ href: '#hero', label: 'Home' },
 		{ href: '#about', label: 'About' },
 		{ href: '#projects', label: 'Projects' },
-		{ href: 'https://pixeldump.github.io/pixel-blog', label: 'Blog', target: '_blank' },
+		{ href: 'https://pixeldump.github.io/pixel-dump', label: 'Blog', target: '_blank' },
 		{ href: '#contact', label: 'Contact' }
 	];
 
@@ -44,7 +44,7 @@
 <header class="sticky top-0 z-50 border-b border-line bg-bg">
 	<nav class="mx-auto flex h-16 max-w-6xl items-center justify-between px-6" aria-label="Primary">
 		<a href="#hero" rel="external" class="text-xl font-bold tracking-tight text-fg">
-			<span class="text-accent">&gt;_</span> PixelDump
+			<span class="text-accent">&gt;_</span> PixelCore
 		</a>
 
 		<div class="hidden items-center gap-8 md:flex">
