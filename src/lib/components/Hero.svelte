@@ -9,7 +9,7 @@
 
 <section id="hero" class="relative grid min-h-screen place-items-center bg-bg">
 	<div class="mx-auto w-full max-w-6xl px-6">
-		<p class="text-sm text-muted">// A pixel core by an automaton.</p>
+		<p class="text-sm text-muted">// A pixel dump by an automaton.</p>
 
 		<h1 class="mt-4 text-5xl font-bold tracking-tight text-fg sm:text-6xl md:text-7xl">
 			Arkam <span class="text-syn-purple">Fahri</span>
