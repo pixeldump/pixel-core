@@ -11,19 +11,19 @@
 
 	const projects: Project[] = [
 		{
-			name: 'Pixel Dump',
+			name: 'Pixel Me',
 			description: 'The site you are browsing right now — an anti-portfolio of everything I have not built.',
 			stack: ['Svelte', 'Typescript', 'Tailwind'],
-			file: 'pixel-dump.svelte',
+			file: 'pixel-me.svelte',
 			accent: 'text-syn-green',
 			dot: 'bg-syn-green'
 		},
 		{
-			name: 'Bit Dump',
+			name: 'Pixel Blog',
 			description:
 				'A technical and satirical blog — every brain dump I have written, strewn across a knowledge garden of everything I know.',
 			stack: ['Obsidian', 'Quartz'],
-			file: 'bit-dump.md',
+			file: 'pixel-blog.md',
 			accent: 'text-syn-purple',
 			dot: 'bg-syn-purple'
 		},
