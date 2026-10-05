@@ -12,7 +12,7 @@
 	const projects: Project[] = [
 		{
 			name: 'Pixel Core',
-			description: 'The site you are browsing right now — an anti-portfolio of everything I have not built.',
+			description: 'The site you are browsing right now, an anti-portfolio of everything I have not built.',
 			stack: ['Svelte', 'Typescript', 'Tailwind'],
 			file: 'pixel-core.svelte',
 			accent: 'text-syn-green',
@@ -21,7 +21,7 @@
 		{
 			name: 'Pixel Dump',
 			description:
-				'A technical and satirical blog — every brain dump I have written, strewn across a knowledge garden of everything I know.',
+				'A technical and satirical blog, every brain dump I have written, strewn across a knowledge garden of everything I know.',
 			stack: ['Obsidian', 'Quartz'],
 			file: 'pixel-dump.md',
 			accent: 'text-syn-purple',
